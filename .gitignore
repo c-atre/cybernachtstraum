@@ -2,3 +2,5 @@
 *.epub
 *.mobi
 *.html
+*.pdf
+.*.mscz,
