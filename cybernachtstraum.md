@@ -1,14 +1,17 @@
 ---
-title: 'Ein Cybernachtstraum'
-author: 'Ein Theaterstück des collectivdrama nach einer Vorlage von Jasper Nicolaisen'
-date: 'UA: 23. Februar 2017, c-base Berlin, in einer Inszenierung des collectivdrama c-atre'
+title: Ein Cybernachtstraum
+author: Ein Theaterstück des collectivdrama c-atre nach einer Vorlage von Jasper Nicolaisen
+premiere:
+    date: 23\. Februar 2017
+    location: c-base Berlin
+lang: de
+rights:
+    license:
+        short: CC BY 4.0
+        long: Creative Commons Namensnennung 4.0 International Lizenz
+        link: https://creativecommons.org/licenses/by/4.0/
+    rightsholder: c-atre collectivdrama
 ...
-
-[**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
-
-This work is licenced under a [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/)
-
-(https://creativecommons.org/licenses/by/4.0/)
 
 Figuren
 =======
