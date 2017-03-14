@@ -11,7 +11,7 @@ Musiknoten können mit dem Notensatz-Programm [MuseScore] geöffnet und in
 PDF-Dateien umgewandelt werden. Alle Programme sind für alle gängigen
 Betriebssysteme verfügbar.
 
-Für Menschen die mit dem Build-Tool `make` vertraut sind stellen wir eine
+Für Menschen, die mit dem Build-Tool `make` vertraut sind, stellen wir eine
 Makefile bereit. Damit könnt ihr den Text umwandeln in
 
 * eine **HTML-Webseite**,
@@ -26,13 +26,13 @@ make html
 make epub
 ```
 
-* ein **MOBI-E-Book** oder
+* ein **MOBI-E-Book**,
 
 ```bash
 make mobi
 ```
 
-* ein **PDF-Dokument** (hierzu wird [LibreOffice] benötigt).
+* ein **PDF-Dokument** oder 
 
 ```bash
 make pdf
