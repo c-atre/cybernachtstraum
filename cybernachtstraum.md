@@ -593,7 +593,7 @@ schlechten Eindruck.
 *Ziehen die Decke weiter über sich, unter der Decke werden Handbewegungen
 sichtbar*
 
-**Kim** *(offensichtlich aroused)*: Ich glaube, ich sollte dich mal ins Bett
+**Kim** *(offensichtlich erregt)*: Ich glaube, ich sollte dich mal ins Bett
 bringen.
 
 **Robin**: Warte, warte, ich hab doch grad erst… also, wird das nicht alles zu
@@ -931,9 +931,9 @@ zu ihr zu kommen.*
 
 **Praerie** *(laut zu den Mediataren)*: Ich helfe euch gleich.
 
-**Robin** *(seitlich zu Praerie)*: Du siehst ja genau aus wie ich. *(versucht,
-die Vorgaben für einen Spiegel zu machen (Spiegelübung), merkt dann aber, dass
-Praerie ein eigener »Mensch« ist)*
+**Robin** *(seitlich zu Praerie)*: Du siehst ja genauso aus, wie ich mich immer
+vorgestellt habe! *(versucht, die Vorgaben für einen Spiegel zu machen
+(Spiegelübung), merkt dann aber, dass Praerie ein eigener »Mensch« ist)*
 
 **Praerie** *(zu Robin)*: Was machst du denn hier? Wie geht das?
 
@@ -1220,7 +1220,7 @@ Buttercup im Schnelldurchlauf mit der Ansage: Schnelles Vorspulen.*
 **Buttercup**: Feierabend heißt Theaterzeit!
 
 **Avanna**: So ist es, Kamerad. Laß uns im Stück weiter vordringen. Praerie, du
-weißt Bescheid, du bist der Löwe. SCHNELLES VORSPULEN.
+weißt Bescheid. SCHNELLES VORSPULEN.
 
 **Buttercup**: Alle auf ihre Positionen … und BITTE SCHNELL.
 
@@ -1255,9 +1255,10 @@ als Maulbeerbaum. Ist irritiert, fällt kurz aus der Rolle. Avanna tritt wieder
 auf als Thisbe.*
 
 **Avanna**: Welch’ schönen Baum die Welt gebar\
-So bin ich schon zu früh wohl da.
+So bin ich schon zu früh wohl da. *(wartet, keine Reaktion von Robin)*\
+So bin ich schon zu früh wohl da…?
 
-**Robin** *(leise, verwirrt)*: Ich bin der Löwe?
+**Robin** *(leise, verwirrt)*: Ich?
 
 **Avanna** *(leise, peinlich berührt, Zähne knirschend)*: Jahaaaa.
 
@@ -1288,11 +1289,11 @@ ich… wir haben… wir haben getauscht!
 **Avanna**: Ihr habt getauscht? Wie ist das denn möglich? Spannend!
 Hochinteressant!
 
-**Buttercup:** Das ist gegen die Regeln! Das geht doch nicht. Praerie wird dafür
-so Ärger bekommen. Warum machst du sowas?
+**Buttercup:** Das ist gegen die Regeln! Praerie wird dafür so Ärger bekommen.
+Warum macht Ihr sowas?
 
 **Robin**: Weil ich es nicht mehr ausgehalten habe da. Diese ganze geistige Enge
-dort.
+dort. Und ich als Freigeist muss doch meine Seele baumeln lassen können.
 
 **Avanna**: Aber ihr seid da doch viel freier als hier?
 
@@ -1312,10 +1313,7 @@ richten zu müssen. Den Tag erfühlen, schmecken, Seele baumeln lassen.
 Realität.
 
 **Robin**: Aber das ist doch genau der Punkt! Ihr macht alles schöner und
-glitzernder als unsere Welt! Ihr macht das lebenswert! Und eure Sphäre hier
-fühlt sich echter an als die da draußen. Und interessanter.  Van Goghs
-Sternennacht ist doch auch auf dem Bild viel schöner als eine Nacht in der
-Realität.
+glitzernder als unsere Welt!
 
 **Avanna**: Und warum wählt ihr nicht für euch selbst interessant zu sein?
 
@@ -1679,8 +1677,8 @@ ganz allein?
 
 *(heulend ab)*
 
-Szene 7 – Die Avatare entdecken und feiern die neue Freiheit, finden sie aber schnell scheiße
-=============================================================================================
+Szene 7 – Die Mediatare entdecken und feiern die neue Freiheit, finden sie aber schnell scheiße
+===============================================================================================
 
 *Robin, Avanna, Buttercup*
 
@@ -1807,11 +1805,13 @@ spielen*
 *(sinken beide zu Boden, starren in die Luft, wissen nix mit sich anzufangen und
 genießen ganz offensichtlich nicht)*
 
-**Buttercup**: Die Seele baumeln lassen
+**Buttercup**: Die Seele baumeln lassen…
 
-**Avanna**: Sind wir noch offline. Check doch mal Google+.
+**Avanna**: Im Moment sein…
 
-*Müdes, aber bestimmtes Lachen von Buttercup, Avanna und Robin.*
+**Buttercup**: Sind wir noch offline.
+
+*Alle schauen panisch auf Ihre Devices.*
 
 Szene 8 – Offline sein ist doch blöd! Die Menschen im Zuschauerraum sind überhaupt nicht frei.
 ==============================================================================================
